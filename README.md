@@ -2,7 +2,7 @@
 <h3 align="center">A passionate computer science student currently pursuing my study at the National School of Applied Sciences. I'm thrilled to share my coding journey and projects with you on this GitHub profile.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
-- 🚀 **As a curious learner, I'm always excited to dive into new technologies, languages, and frameworks. With a strong foundation in computer science principles and a hunger for knowledge, I'm constantly expanding my skills and pushing the boundaries of what I can achieve.**
+- 🚀 **With a strong foundation in computer science principles and a hunger for knowledge, I'm constantly expanding my skills and pushing the boundaries of what I can achieve. I'm always excited to dive into new technologies, languages, and frameworks.**
 
 - 💻 Throughout my academic journey, **I've had the opportunity to work on various projects that have challenged me to think critically, solve problems, and collaborate effectively.**
 
